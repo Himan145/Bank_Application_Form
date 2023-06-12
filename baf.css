@@ -1,0 +1,23 @@
+body{
+    background-color: aquamarine;
+}
+.h11{
+    text-align: center;
+    text-decoration: underline;
+}
+.h22{
+    text-align:center;
+}
+.det{
+    text-align: center;
+    text-transform: capitalize;
+}
+.loc{
+    text-align: right;
+}
+h3{
+    text-decoration: underline;
+}
+label,input{
+    margin:10px 0px;
+}
